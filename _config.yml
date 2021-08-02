@@ -1,24 +1,22 @@
 title: Jared Boyer
-author:
-  name: Jared Boyer
-  email: jaredb@mit.edu
-description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-# url: "jared-boyer.com" # the base hostname & protocol for your site, e.g. http://example.com
+email: jaredb@mit.edu
+description: >-
+  See my resume here: link
+
+theme: minima
+
+# github_username: jaredbmit
+# linkedin_username: jared-boyer-4
 
 minima:
   date_format: "%b %-d, %Y"
-  
-  # generate social links in footer
   social_links:
+    github:  jaredbmit
     linkedin: jared-boyer-4a5b44201
-    github: jaredbmit
+    gitlab:
+     - username: jaredbmit
+       instance: gitlab.com
 
-# Build settings
-theme: minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
