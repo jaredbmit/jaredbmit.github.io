@@ -1,13 +1,16 @@
 title: Jared Boyer
 author:
+  name: Jared Boyer
   email: jaredb@mit.edu
-description: >- # this means to ignore newlines until "baseurl:"
+description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-url: "jared-boyer.com" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "jared-boyer.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
+  date_format: "%b %-d, %Y"
+  
   # generate social links in footer
   social_links:
     linkedin: jared-boyer-4a5b44201
