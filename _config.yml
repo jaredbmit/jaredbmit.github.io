@@ -17,6 +17,6 @@ minima:
      - username: jaredbmit
        instance: gitlab.com
 
-# plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
