@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/dshot
+permalink: /research/dshot/
 ---
 <img src="/assets/dshot_thumbnail.png" alt="">
 

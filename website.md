@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects/website
+permalink: /projects/website/
 ---
 <img src="/assets/website.png" alt="">
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/mosaic
+permalink: /research/mosaic/
 ---
 <img src="/assets/MOSAIC_thumbnail.png" alt="">
 
