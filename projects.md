@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
 <div style="clear: both;">
   <div style="float: left; margin-right: 1em; margin-bottom: 1em;">
     <a href="UEFC/"><img src="/assets/UEFC.png" alt="" width="360"></a>
@@ -17,12 +18,18 @@ permalink: /projects/
 
 &nbsp;
 
+# Mini Projects
+
+---
+
+&nbsp;
+
 <div style="clear: both;">
   <div style="float: right; margin-left: 1em; margin-bottom: 1em;">
-    <a href="website/"><img src="/assets/website.png" alt="" width="360"></a>
+    <img src="/assets/website.png" alt="" width="360">
   </div>
   <div>
-    <h2><a href="website/">This Website</a></h2>
+    <h2>This Website</h2>
     <p>I used GitHub Pages and learned the basics of HTML ...</p>
   </div>
 </div>
@@ -33,11 +40,11 @@ permalink: /projects/
 
 <div style="clear: both;">
   <div style="float: left; margin-right: 1em; margin-bottom: 1em;">
-    <a href="---"><img src="/assets/---.png" alt="" width="360"></a>
+    <img src="/assets/jet_engine.png" alt="" width="360">
   </div>
   <div>
-    <h2><a href="---/">---</a></h2>
-    <p>---</p>
+    <h2>Jet Engine Design</h2>
+    <p>For Thermodynamics, </p>
   </div>
 </div>
 
