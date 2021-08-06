@@ -40,7 +40,7 @@ permalink: /projects/
 
 <div style="clear: both;">
   <div style="float: left; margin-right: 1em; margin-bottom: 1em;">
-    <img src="/assets/jet_engine.png" alt="" width="360">
+    <img src="/assets/jet_engine.PNG" alt="" width="360">
   </div>
   <div>
     <h2>Jet Engine Design</h2>
