@@ -22,7 +22,7 @@ permalink: /projects/
     <a href="website/"><img src="/assets/website.png" alt="" width="360"></a>
   </div>
   <div>
-    <h2><a href="website/">Making a Personal Website</a></h2>
+    <h2><a href="website/">This Website</a></h2>
     <p>I used GitHub Pages and learned the basics of HTML ...</p>
   </div>
 </div>
