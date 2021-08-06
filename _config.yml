@@ -3,10 +3,9 @@ email: jaredb@mit.edu
 description: >-
   See my resume here: link
 
-theme: minima
+markdown: GFM
 
-# github_username: jaredbmit
-# linkedin_username: jared-boyer-4
+theme: minima
 
 minima:
   date_format: "%b %-d, %Y"
@@ -16,6 +15,11 @@ minima:
     gitlab:
      - username: jaredbmit
        instance: gitlab.com
+
+header_pages:
+  - about.md
+  - research.md
+  - projects.md
 
 plugins:
  - jekyll-feed
