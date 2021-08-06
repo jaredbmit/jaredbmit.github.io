@@ -28,7 +28,7 @@ permalink: /research/
   </div>
   <div>
     <h2><a href="cadrl/">Collision Avoidance</a></h2>
-    <p>Developed a ROS wrapper for a collision avoidance codebase to simulate robotic motion in real time.</p>
+    <p>Developed a ROS wrapper for a collision avoidance codebase to simulate robotic motion in Unity in real time.</p>
   </div>
 </div>
 
