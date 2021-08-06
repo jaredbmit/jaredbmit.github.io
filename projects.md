@@ -9,8 +9,8 @@ permalink: /projects/
     <a href="UEFC/"><img src="/assets/UEFC.png" alt="" width="360"></a>
   </div>
   <div>
-    <h2><a href="UEFC/">Unified Engineering Flight Competition</a></h2>
-    <p>Plane design description</p>
+    <h2><a href="UEFC/">Flight Competition</a></h2>
+    <p>Collaborated in a team of 4 to analyze the effect of an aircraft's geometric parameters on flight performance. Subsequently designed and built our own model aircraft to minimize weight and maximize speed while maintaining stability and structural integrity.</p>
   </div>
 </div>
 
@@ -30,7 +30,7 @@ permalink: /projects/
   </div>
   <div>
     <h2>This Website</h2>
-    <p>I used GitHub Pages and learned the basics of HTML ...</p>
+    <p>I used GitHub pages & Jekyll to generate this personal website, learning the basics of HTML, Markdown, and CSS along the way.</p>
   </div>
 </div>
 
@@ -44,7 +44,7 @@ permalink: /projects/
   </div>
   <div>
     <h2>Jet Engine Design</h2>
-    <p>For Thermodynamics, </p>
+    <p>Worked with teammates to analyze the effect of a two-spool turbofan engine's parameters on thrust, efficiency, and noise output. Subsequently designed our own turbofan engine to maximize thrust and efficiency.</p>
   </div>
 </div>
 

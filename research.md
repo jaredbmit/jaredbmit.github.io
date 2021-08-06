@@ -8,7 +8,7 @@ permalink: /research/
     <a href="dshot/"><img src="/assets/dshot_thumbnail.png" alt="" width="360"></a>
   </div>
   <div>
-    <h2><a href="dshot/">Bidirectional DSHOT</a></h2>
+    <h2><a href="dshot/">Implementing DSHOT</a></h2>
     <p>Programmed a microcontroller for simultaneous motor communication using the bidirectional dshot communication scheme, enabling the reception of motor RPM feedback. Built a center of mass state estimator utilizing this feedback.</p>
   </div>
 </div>
