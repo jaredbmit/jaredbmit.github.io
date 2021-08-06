@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/UEFC
+permalink: /projects/UEFC
 ---
 <img src="/assets/UEFC.png" alt="">
 
