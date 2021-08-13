@@ -17,7 +17,7 @@ permalink: /research/
 
 <div>
   <p style="font-size:80%;color:gray;">Tags: Microcontroller Programming, Control Systems, Digital Communication, Robotics, State Estimation, Signal Processing</p>
-  <p style="font-size:80%;color:gray;">Skills: C++, Python, Microcontrollers, Git</p>
+  <p style="font-size:80%;color:gray;">Skills: C++, Python, Microcontroller Programming, Git</p>
 </div>
 
 &nbsp;
