@@ -25,7 +25,7 @@ permalink: /projects/
 &nbsp;
 
 <div style="clear: both;">
-  <div style="float: left; margin-right: 1em; margin-bottom: 1em;">
+  <div style="float: right; margin-left: 1em; margin-bottom: 1em;">
     <img src="/assets/jet_engine.PNG" alt="" width="360">
   </div>
   <div>
@@ -39,7 +39,7 @@ permalink: /projects/
 &nbsp;
 
 <div style="clear: both;">
-  <div style="float: right; margin-left: 1em; margin-bottom: 1em;">
+  <div style="float: left; margin-right: 1em; margin-bottom: 1em;">
     <img src="/assets/website.png" alt="" width="360">
   </div>
   <div>
