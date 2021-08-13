@@ -73,7 +73,7 @@ However, overall ratings weren't determined by final flight performance alone. T
 &nbsp;
 
 <div style="text-align:center">
-	<img src="/assets/UEFC_results.png" alt="" width="600">
+	<img src="/assets/UEFC_results.PNG" alt="" width="600">
 </div>
 
 &nbsp;
