@@ -80,4 +80,4 @@ However, overall ratings weren't determined by final flight performance alone. T
 
 Our team's largest strength was likely our use of automation. In the design phase, we spent a lot of time deriving the general system dynamics and migrating equations into python, which allowed us to create a script to automatically solve for performance parameters as a function of design variables. This significantly sped up our design iteration time, allowing us to quickly come up with a design, analyze its performance, and improve on its shortcomings.
 
-On the other hand, our team's biggest weakness was likely that we overlooked the stability parameters, not allowing a large enough safety cushion to ensure stable flight. In our final flight test, we saw a significant speed lost due to the pilot having to re-direct the plane on course after flight perturbations.
+On the other hand, our team's biggest mistake was likely overlooking the stability parameters, not allowing a large enough safety cushion to ensure stable flight. In our final flight test, we saw a significant speed lost due to the pilot having to re-direct the plane on course after flight perturbations.
