@@ -37,7 +37,7 @@ The next section of the competition was the build phase, where teams were given 
 &nbsp;
 
 <div style="text-align:center">
-	<img src="/assets/UEFC_plane.jpg" alt="" width="600">
+	<img src="/assets/UEFC_plane.JPG" alt="" width="600">
 </div>
 
 &nbsp;
