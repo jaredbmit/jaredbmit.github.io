@@ -5,7 +5,7 @@ permalink: /
 ---
 <div style="clear: both;">
   <div style="float: left; margin-right: 1em; margin-bottom: 1em;">
-    <img src="/assets/dshot_thumbnail.png" alt="" width="360">
+    <img src="/assets/Me.JPG" alt="" width="360">
   </div>
   <div>
     <h2>Hi! I'm Jared.</h2>
@@ -14,6 +14,4 @@ permalink: /
   </div>
 </div>
 
-<br clear="all" />
-
-You can check out <a href="">my resume here</a> or my GitHub, GitLab, and LinkedIn at the bottom of the page.
+Feel free to reach me at jaredb@mit.edu or check out my GitHub, GitLab, or LinkedIn at the bottom of the page.
