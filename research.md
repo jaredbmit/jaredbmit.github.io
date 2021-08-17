@@ -5,7 +5,7 @@ permalink: /research/
 ---
 <div style="clear: both;">
   <div style="float: left; margin-right: 1em; margin-bottom: 1em;">
-    <a href="dshot/"><img src="/assets/dshot_thumbnail.png" alt="" width="360"></a>
+    <a href="dshot/"><img src="/assets/dshot_thumbnail.png" alt="" width="400"></a>
   </div>
   <div>
     <h2><a href="dshot/">Implementing DSHOT</a></h2>
