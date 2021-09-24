@@ -5,29 +5,29 @@ permalink: /research/
 ---
 <div style="clear: both;">
   <div style="float: left; margin-right: 1em; margin-bottom: 1em;">
-    <a href="dshot/"><img src="/assets/dshot_thumbnail.png" alt="" width="400"></a>
+    <img src="/assets/Geom_Inertia_Estimator.PNG" alt="" width="400">
   </div>
   <div>
-    <h2><a href="dshot/">Implementing DSHOT</a></h2>
-    <p>Programmed a microcontroller for simultaneous motor communication using the bidirectional dshot communication scheme, enabling the reception of motor RPM feedback. Built a center of mass state estimator utilizing this feedback.</p>
+    <h2>Inertial Estimation</h2>
+    <p>Integrated an inertial parameter estimation package into a lab-wide UAV flight stack. Worked on improving the speed of estimation convergence.</p>
   </div>
 </div>
 
 <br clear="all" />
 
 <div>
-  <p style="font-size:80%;color:gray;">Tags: Microcontroller Programming, Control Systems, Digital Communication, Robotics, State Estimation, Signal Processing</p>
-  <p style="font-size:80%;color:gray;">Skills: C++, Python, Microcontroller Programming, Git</p>
+  <p style="font-size:80%;color:gray;">Tags: Control Systems, Robotics, Multirotors, State Estimation, Kalman Filtering</p>
+  <p style="font-size:80%;color:gray;">Skills: C++, ROS, Git</p>
 </div>
 
 &nbsp;
 
 <div style="clear: both;">
   <div style="float: right; margin-left: 1em; margin-bottom: 1em;">
-    <a href="cadrl/"><img src="/assets/cadrl_thumbnail.png" alt="" width="400"></a>
+    <img src="/assets/cadrl_thumbnail.png" alt="" width="400">
   </div>
   <div>
-    <h2><a href="cadrl/">Collision Avoidance</a></h2>
+    <h2>Collision Avoidance</h2>
     <p>Developed a ROS wrapper for a collision avoidance codebase to simulate robotic motion in Unity in real time.</p>
   </div>
 </div>
@@ -43,10 +43,10 @@ permalink: /research/
 
 <div style="clear: both;">
   <div style="float: left; margin-right: 1em; margin-bottom: 1em;">
-    <a href="mosaic/"><img src="/assets/MOSAIC_thumbnail.png" alt="" width="400"></a>
+    <img src="/assets/MOSAIC_thumbnail.png" alt="" width="400">
   </div>
   <div>
-    <h2><a href="mosaic/">MOSAIC</a></h2>
+    <h2>MOSAIC</h2>
     <p>System modeling, analysis, and software development for a prototype liquid-lens based laser telecommunication system. Developed under the NASA Early Stage Innovations Grant.</p>
   </div>
 </div>

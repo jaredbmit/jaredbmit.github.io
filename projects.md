@@ -5,6 +5,25 @@ permalink: /projects/
 ---
 
 <div style="clear: both;">
+  <div style="float: right; margin-left: 1em; margin-bottom: 1em;">
+    <img src="/assets/dshot_thumbnail.png" alt="" width="400">
+  </div>
+  <div>
+    <h2>Implementing DSHOT</h2>
+    <p>Programmed a microcontroller for simultaneous motor communication using the bidirectional dshot communication scheme, enabling the reception of motor RPM feedback. Integrated these capabilties into a lab-wide UAV flight stack.</p>
+  </div>
+</div>
+
+<br clear="all" />
+
+<div>
+  <p style="font-size:80%;color:gray;">Tags: Microcontroller Programming, Control Systems, Digital Communication, Robotics, Signal Processing</p>
+  <p style="font-size:80%;color:gray;">Skills: C++, Python, Microcontroller Programming, Git</p>
+</div>
+
+&nbsp;
+
+<div style="clear: both;">
   <div style="float: left; margin-right: 1em; margin-bottom: 1em;">
     <a href="UEFC/"><img src="/assets/UEFC.png" alt="" width="360"></a>
   </div>
